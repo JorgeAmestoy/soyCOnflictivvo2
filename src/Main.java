@@ -4,6 +4,10 @@ public class Main {
 
         System.out.println("Estoy arrecho, contesta sí, si tú tb");
 
+        //te conesto una vez
+
+        //te contesto otra vez
+
 
         //Si está arrecha, el viernes no vengo a clase
 
